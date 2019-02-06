@@ -8,8 +8,8 @@ author: Anna Tobin
 comments: false
 ---
 
-#Class Preparation #2
-##_The Book_, "The Book as Object"
+# Class Preparation #2
+## _The Book_, "The Book as Object"
 
 In the first chapter of _The Book_, Borsuk details the history of the book as a mode of containing and carrying information. Specifically, she expands on the evolution of the _means_ of containing this information: the surface used to hold the words, the writing impliments used to create the information, and the means to bind it all together. She prefaces this history by discussing the effect this development has on the content itself:
 

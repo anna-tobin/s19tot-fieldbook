@@ -8,8 +8,8 @@ author: Anna Tobin
 comments: false
 ---
 
-#Class Preparation #3
-##"The Truth of Fact, the Truth of Feeling" and _The Information_, Prologue to Chapter 2
+# Class Preparation #3
+## "The Truth of Fact, the Truth of Feeling" and _The Information_, Prologue to Chapter 2
 
 As transmitting and receiving information has become more and more accessible through technology, questions have been raised about how this information can be defined, how the communicators understand it, and what sorts of implications does it have on human behavior. 
 

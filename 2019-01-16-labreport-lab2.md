@@ -8,9 +8,8 @@ author: Anna Tobin
 comments: false
 ---
 
-#Lab Report #2
-##Into the Archive/Thinking with the Codex
-###1-16-2019
+# Lab Report #2
+## Into the Archive/Thinking with the Codex
 
 One of the texts I chose to observe was Buteo Delphinaticus' _Bvteonis Delphinatici Opera Geometrica_ (1554), a geometry textbook written in Latin. The specific spread of this text I observed (pages 110-111) has a full-page illustration on the verso side and text with an embedded geometric diagram on the recto. An embellished capital "A" accompanies the text, depicting a cherub hiding behind the letter. The other spread I was able to observe in person was from Benjamin Franklin's _Briefe von der Elektricitä_ (1758), a German publishing of Franklin's discoveries on electricity. This spread (pages 70-71) features gothic type in an atypical layout with a detailed image on the recto page. (It looks like the text is formatted as a letter, but my very limited understanding of German restricts my ability to confirm.) From the digital sources, I looked at Andreas Vesalius' _De Humani Corporis Fabrica_ (1543), a book detailing human anatomy. This spread detailed two full page illustrations of the human skeletal and muscle systems with texts identifying the different anatomical parts.   
 

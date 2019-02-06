@@ -8,8 +8,8 @@ author: Anna Tobin
 comments: false
 ---
 
-#Lab Report #1
-##Understanding Textual Structure with Markdown
+# Lab Report #1
+## Understanding Textual Structure with Markdown
 
 After being introduced to Markdown in class and completing a handful of entries using it, it seems bare in comparison to the word processors I'm more familiar with, but that's not necessarily a bad thing. Markdown seems to eliminate any tools or advanced stylistic choices that would get in the way of the writer. The text itself is the priority, and any choices in the organization or style of this information can be integrated seamlessly within the action of typing. It ensures that information is composed quickly and clearly, and the integration of code provides an outlet for expansion on the text (if that language is known by the writer.) Overall, I find it a lot more appealing if I want to quickly get my thoughts down and develop a "flow" to my writing practice. Often times, when faced with the blank, new page of a word document, it feels overwhelming to start and the need to fill the page becomes the only thing I can think about. Markdown eliminates this concern with its format completely. 
 
