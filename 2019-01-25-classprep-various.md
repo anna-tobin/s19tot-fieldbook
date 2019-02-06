@@ -8,8 +8,8 @@ author: Anna Tobin
 comments: false
 ---
 
-#Class Preparation #4
-##Illuminated Manuscripts and the Role of a Scribe 
+# Class Preparation #4
+## Illuminated Manuscripts and the Role of a Scribe 
 
 The responsibility of a scribe to replicate knowledge comes under harsh judgement by some. Knowing that the copying of texts was in the hands of other human beings, prone to natural error, seemed to caused anxieties in those who felt strongly about the original work. The tone of Ælfric in regards to scribes highlights the risk of human error in the writing tradition.
  
