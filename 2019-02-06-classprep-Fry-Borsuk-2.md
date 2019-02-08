@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TITLE HERE"
-subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+title: "Class Preparation #6"
+subheadline: "Producing Type for the Printing Press"
 categories:
     - class preparation 
 author: Anna Tobin

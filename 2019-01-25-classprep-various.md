@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TITLE HERE"
-subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+title: "Class Preparation #4"
+subheadline: "Illuminated Manuscripts and the Role of a Scribe"
 categories:
     - class preparation 
 author: Anna Tobin

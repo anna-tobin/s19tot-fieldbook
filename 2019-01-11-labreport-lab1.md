@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TITLE HERE"
-subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+title: "Lab Report #1"
+subheadline: "Understanding Textual Structure with Markdown"
 categories:
     - fieldbooks
 author: Anna Tobin

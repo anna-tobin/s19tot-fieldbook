@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TITLE HERE"
-subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+title: "Class Preparation #3"
+subheadline: "The Truth of Fact, the Truth of Feeling and The Information, Prologue to Chapter 2"
 categories:
     - class preparation 
 author: Anna Tobin

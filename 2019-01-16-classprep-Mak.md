@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TITLE HERE"
-subheadline: "OPTIONAL SUBTITLE HERE (leave empty quotation marks if you don't subtitle)"
+title: "Class Preparation #1"
+subheadline: "Architectures of the Page"
 categories:
     - class preparation 
 author: Anna Tobin
